@@ -15,4 +15,4 @@ description: Learn to create GCP Cloud Account
 - Follow presentation slides to create the GCP Account
 
 ## Step-04: Create Budget Alerts
-- Go to Billing and Create Budget Alerts
+- Go to Billing and Create Budget Alerts.
